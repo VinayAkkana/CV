@@ -1,12 +1,6 @@
 # Projects
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
-
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+- project: Worked on Predictive network modeling of the high resolution dynamic plant transcriptome in response to nitrate (Masters Project) implementing Matlab, State Space Model (SSM) tool, Microarray dataset
+- project: Big data analysis of Storm events data from 2011 -2013(USA) using Spark and visualization of results through graphs using D3js framework
+- project: Course work in Electrical Medical Records(EMR) with Paper on Comparison of EHR policies of Healthcare Information and    Management Systems Society (HIMSS), Oklahoma State University and University of Texas Medical Branch.
+- project: Online Address Book to keep track of basic information regarding several contacts using JAVA, PHP, Net beans for apllet design, Xampp, Eclipse, MySQL. 
