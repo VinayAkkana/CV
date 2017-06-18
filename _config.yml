@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Vinay Abhishek Akkana"
 resume_title:                   "Software Engineer"
 resume_contact_email:
