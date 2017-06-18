@@ -1,9 +1,21 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Harvard University, Cambridge, MA
+  position: Software Engineer
+  duration: Mar 2014 &mdash; Present
+  summary:  Worked in Harvard University’s Library Technology Services as a Java Developer to design and develop the software for the Harvard Library Digital Repository Service.
+●	 Involved in Design, Development, and Testing phases of SDLC. Used agile methodology and participated in HLD and Scrum meetings.
+●	Developed software tools for metadata migration of various complex digital objects to new METS XML representation.
+●	Worked on complex code to create metadata according to content model i.e. Audio, Still Image, PDS Document, Opaque container, Web Harvest, PDS Document List, Text, Document etc.
+●	Analyse the specs needed for further development with business analyst and create workflow charts for all content models to facilitate better understanding within the team using LucidChart, Microsoft Visio, OmniGraffle.
+●	Taking part of Hip sprints i.e becoming a tester for one sprint duration and testing other codes for better results and effective release.
+●	Worked on FITS project - an open source tool that validates, identifies and extracts technical metadata for a wide range of file formats.
+●	Wrote Junit tests for all possible functionalities. 
+●	Used log4j for tracking errors and debugging the code.
+●	Part of daily Scrum and went across training in project tracking, bug fixing and project management functionalities using JIRA.
+●	Maintained and monitored Jboss servers for migration.  
+●	Sole point of contact for the entire project. 
+
 
 # Windmill Crank Operator
 - company: Sir Putt-A-Lot's Merrie Olde Fun Centre
