@@ -1,14 +1,24 @@
 # Skills
 # Donut design
-- skill: Languages 
-  description: Java, SQL, Linux
-- skill: Frameworks 
-  description: Spring, Hibernate, Hadoop 
-- skill: Databases 
-  description: MySQL, Oracle
-- skill: Version Control 
-  description: CVS, Git
+- skill: J2EE Technologies
+  description: JAVA, JDBC, Servlets, JSP, JSTL, JMS
+- skill: J2EE Frame works
+  description:Spring, Hibernate, Hadoop
 - skill: Servers 
-  description: Jboss, IBM WebSphere, Tomcat
+  description: : WebSphere, JBoss, WebLogic, Apache Tomcat
+- skill: Databases 
+  description: Oracle 11g/10g, SQL server, DB2
+- skill: OS 
+  description: Linux, Windows XP, Windows 7, Windows 10, Unix.
+- skill: Version Control 
+  description: CVS, Git, Rational ClearCase, Bit Bucket
+- skill: XML technologies 
+  description: XML, XSL, XSTL, StAX, JAXB
+- skill: IDEs 
+  description: RAD, Spring Tool Suite (STS) and Eclipse
+- skill: Design tools
+  description: MS Visio, OmniGraffle, Lucid chart
+- skill: Open source & others 
+  description: Maven, ANT, Log4j, Junit, WinSCP, FileZilla, JIRA, Cisco AnyConnect VPN, IBM Bluemix, MacFusion, Oxygen, Diffmerge, Putty, Bugzilla, SQL Developer, FITS.
 - skill: Miscellaneous 
   description: Familiarity with Scala, R, Perl
